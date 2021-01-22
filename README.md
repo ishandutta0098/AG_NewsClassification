@@ -1,5 +1,5 @@
 # AG_NewsClassification
-Multilabel News Classification using LSTM
+Multilabel News Classification using Bidirectional LSTM
 
 # Data set
 AG's News Topic Classification Dataset
